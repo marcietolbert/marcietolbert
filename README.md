@@ -1,12 +1,10 @@
-# ![287423](https://github.com/user-attachments/assets/d972e208-329e-47d8-98ad-a7bf5c854292) 
+![287423](https://github.com/user-attachments/assets/d972e208-329e-47d8-98ad-a7bf5c854292) 
 
-# Hello, I'm Marcie!
+# Hello, I'm Marcie! <a href="https://linkedin.com/marcie-tolbert"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 **`SOC Analyst (Log and Malware Analysis | Incident Handling and Documentation | SIEM Operations)`**
 
-<a href="https://linkedin.com/marcie-tolbert"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
