@@ -1,6 +1,6 @@
-# Hello, I'm Marcie!
+# ![287423](https://github.com/user-attachments/assets/d972e208-329e-47d8-98ad-a7bf5c854292) Hello, I'm Marcie!
 
-**`SOC Analyst (Monitoring | Intrusion Detection and Analysis | Cyber Blogger)`**
+**`SOC Analyst (Log and Malware Analysis | Incident Handling and Documentation | SIEM Operations)`**
 
 <a href="https://linkedin.com/marcie-tolbert"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
