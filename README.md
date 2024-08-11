@@ -10,7 +10,7 @@ I'm a self-taught cybersecurity professional whose varied workplace experiences 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Practical Malware Analysis and Triage         | <a href="https://google.com">SillyPutty</a>|
+| Practical Malware Analysis and Triage         | <a href="https://github.com/marcietolbert/SillyPutty">SillyPutty</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -51,5 +51,5 @@ I'm a self-taught cybersecurity professional whose varied workplace experiences 
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/marcietolbert/SillyPutty">SillyPutty</a>
 - SOC Automation Project
