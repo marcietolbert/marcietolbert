@@ -51,5 +51,5 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 </div>
 
 ## Projects
-- <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>>
+- <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>
 - SOC Automation Project
