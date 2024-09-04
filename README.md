@@ -4,7 +4,7 @@
 
 **`SOC Analyst (Log and Malware Analysis | Incident Handling and Documentation | SIEM Operations)`**
 
-I'm a self-taught cybersecurity professional whose varied workplace experiences have led to an unwavering commitment to safeguarding assets while upholding a robust security posture. All projects featured on this repository were selected to simulate real-world instances, highlighting the practical experience I've gained to leverage real-world defenses against ever-evolving cyber threats. I am eager to transition into this field with an aim to join an organization as a Junior or Tier 1 SOC Analyst.
+Hello and welcome to my GitHub portfolio. Again my name is Marcie and I'm a self-taught cybersecurity professional whose varied workplace experiences have led to an unwavering commitment to safeguarding assets while upholding a robust security posture. All projects featured on this repository were selected to simulate real-world instances, highlighting the practical experience I've gained to leverage real-world defenses against ever-evolving cyber threats. I am eager to transition into this field with an aim to join an organization as a Junior or Tier 1 SOC Analyst.
 
 ## Skills
 
