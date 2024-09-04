@@ -10,7 +10,7 @@ I'm a self-taught cybersecurity professional whose varied workplace experiences 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Analyst Lab with Intergrated Ticketing System for Application of Attack, Detection, and Investigation Techniques | <a href="https://github.com/marcietolbert/SillyPutty">SillyPutty</a>|
+| SOC Analyst Lab with Intergrated Ticketing System for Application of Attack, Detection, and Investigation Techniques | <a href="https://github.com/marcietolbert/SillyPutty">MYDFIR SOC Analyst Challenge</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
