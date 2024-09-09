@@ -11,14 +11,11 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC Lab Creation with Intergrated Ticketing System for Application of Attack, Detection, and Investigation Techniques | <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>|
+| Generating and Observing Telemetry, Crafting Detection Rules, Tuning False Positives, and Automated Yara Scanning | <a href="https://google.com">So You Want to be a SOC Analyst?</a>|
 | Malware Analysis and Triage | <a href="https://google.com">Practical Malware Analysis and Triage</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -52,4 +49,5 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 ## Projects
 - <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>
-- SOC Automation Project
+- <a href="https://google.com">So You Want to be a SOC Analyst?</a>
+- <a href="https://google.com">Practical Malware Analysis and Triage</a>
