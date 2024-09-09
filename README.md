@@ -10,7 +10,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Analyst Lab with Intergrated Ticketing System for Application of Attack, Detection, and Investigation Techniques | <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>|
+| SOC Lab Creation with Intergrated Ticketing System for Application of Attack, Detection, and Investigation Techniques | <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
