@@ -4,7 +4,16 @@
 
 **`SOC Analyst (Log and Malware Analysis | Incident Handling and Documentation | SIEM Operations)`**
 
-Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-taught cybersecurity professional whose varied workplace experiences have led to an unwavering commitment to the safeguarding of assets while upholding a robust security posture. All of the projects featured in this repository simulate real-world instances, highlighting the practical experience I've gained to leverage real-world defenses against ever-evolving cybersecurity threats. I am eager to transition into this field with the aim of joining an organization as a Junior or Tier 1 SOC Analyst.
+Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-taught cybersecurity professional whose varied workplace experiences have led to an unwavering desire to safeguard assets and uphold a robust security posture for both the individual and the organization. The projects featured in the corresponding repositories were chosen due to the project's focus on simulating real-world instances. Highlighting the practical experience I've gained to leverage real-world defenses against an ever-evolving cybersecurity landscape. I am eager to transition into the cybersecurity industry and would like to obtain an employment opportunity with an organization as a Tier 1 SOC Analyst.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SOC Lab Creation with Intergrated Ticketing System for Application of Attack, Detection, and Investigation Techniques | <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>|
+| Generating and Observing Telemetry, Crafting Detection Rules, Tuning False Positives, and Automated Yara Scanning | <a href="https://google.com">So You Want to be a SOC Analyst?</a>|
+| Malware Analysis and Triage | <a href="https://google.com">Practical Malware Analysis and Triage</a>|
+
 
 ## Skills
 
