@@ -6,9 +6,9 @@
 
 Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-taught cybersecurity professional whose varied workplace experiences have led to an unwavering desire to safeguard assets and uphold a robust security posture for both the individual and the organization. The projects featured in the corresponding repositories were chosen due to the project's focus on simulating real-world instances. Highlighting the practical experience I've gained to leverage real-world defenses against an ever-evolving cybersecurity landscape. I am eager to transition into the cybersecurity industry and would like to obtain an employment opportunity with an organization as a Tier 1 SOC Analyst.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Lab Building and Telmetry Generation          | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC Lab Creation with Intergrated Ticketing System for Application of Attack, Detection, and Investigation Techniques | <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>|
 | Generating and Observing Telemetry, Crafting Detection Rules, Tuning False Positives, and Automated Yara Scanning | <a href="https://google.com">So You Want to be a SOC Analyst?</a>|
