@@ -55,5 +55,3 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 ## Projects
 - <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>
-- <a href="https://google.com">So You Want to be a SOC Analyst?</a>
-- <a href="https://google.com">Practical Malware Analysis and Triage</a>
