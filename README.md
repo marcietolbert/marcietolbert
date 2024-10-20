@@ -10,17 +10,19 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 | Lab Building and Telmetry Generation          | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Lab Creation with Intergrated Ticketing System for Application of Attack, Detection, and Investigation Techniques | <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>|
+| SOC with Intergrated Ticketing System (Attack, Detection, and Investigation Techniques) | <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>|
 | Generating and Observing Telemetry, Crafting Detection Rules, Tuning False Positives, and Automated Yara Scanning | <a href="https://google.com">So You Want to be a SOC Analyst?</a>|
-| Malware Analysis and Triage | <a href="https://google.com">Practical Malware Analysis and Triage</a>|
+<br>
 
 
-## Skills
-
-| Skill                                         | Associated Project         |
+| Phishing Analysis                             | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Lab Creation with Intergrated Ticketing System for Application of Attack, Detection, and Investigation Techniques | <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>|
-| Generating and Observing Telemetry, Crafting Detection Rules, Tuning False Positives, and Automated Yara Scanning | <a href="https://google.com">So You Want to be a SOC Analyst?</a>|
+| Malware Analysis and Triage | <a href="https://google.com">Practical Malware Analysis and Triage</a>|
+<br>
+
+
+| Malware Analysis                              | Associated Project         |
+|-----------------------------------------------|----------------------------|
 | Malware Analysis and Triage | <a href="https://google.com">Practical Malware Analysis and Triage</a>|
 
 
