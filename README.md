@@ -11,19 +11,16 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 | Lab Building and Telmetry Generation          | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC with Intergrated Ticketing System (Attack, Detection, and Investigation Techniques) | <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>|
-| Generating and Observing Telemetry, Crafting Detection Rules, Tuning False Positives, and Automated Yara Scanning | <a href="https://google.com">So You Want to be a SOC Analyst?</a>|
 <br>
 
 
 | Phishing Analysis                             | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis and Triage | <a href="https://google.com">Practical Malware Analysis and Triage</a>|
 <br>
 
 
 | Malware Analysis                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis and Triage | <a href="https://google.com">Practical Malware Analysis and Triage</a>|
 
 
 ## Tools
