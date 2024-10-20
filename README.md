@@ -1,7 +1,7 @@
 ![287423](https://github.com/user-attachments/assets/d972e208-329e-47d8-98ad-a7bf5c854292) 
 
-# Hi, I'm Marcie! <a href="https://linkedin.com/in/marcie-tolbert"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+# Hi, I'm Marcie! <a href="https://linkedin.com/in/marcie-tolbert"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://marcietolbert.squarespace.com"><img src="https://img.shields.io/badge/-Marcie_Tolbert-EC5578?&style=for-the-badge&logo=&logoColor=white" /></a>
+ 
 **`SOC Analyst (Log and Malware Analysis | Incident Handling and Documentation | SIEM Operations)`**
 
 Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-taught cybersecurity professional whose varied workplace experiences have led to an unwavering desire to safeguard assets and uphold a robust security posture for both the individual and the organization. The projects featured in the corresponding repositories were chosen due to the project's focus on simulating real-world instances. Highlighting the practical experience I've gained to leverage real-world defenses against an ever-evolving cybersecurity landscape. I am eager to transition into the cybersecurity industry and would like to obtain an employment opportunity with an organization as a Tier 1 SOC Analyst.
