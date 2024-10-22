@@ -24,7 +24,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Lab Objective: Delves into the process of monitoring and analyzing network traffic to identify anomalies and suspicious activities.***
+> ***Lab Objective: Delves into the process of monitoring and analyzing network traffic to identify anomalies and suspicious activity.***
 
 | Network Traffic Analysis                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
