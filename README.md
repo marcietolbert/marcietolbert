@@ -56,13 +56,19 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Lab Objective: Utilize various SIEM platforms to simulate real-time analysis of security alerts.***
+> ***Lab Objective: Utilize various SIEM platforms to simulate real-time analysis of security alerts to develop investigative skillset.***
 
 | SIEM                                          | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Coming Soon                                   | Coming Soon                |
 <br>
 <br>
+
+> ***Lab Objective: Application of incident response methodologies ascertain the scope and cause of an incident for remediation.***
+
+| DFIR                                          | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Coming Soon                                   | Coming Soon                |
 
 ## Tools
 
