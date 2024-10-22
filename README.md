@@ -32,7 +32,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Lab Objective: Static and dynamic malware analysis, reverse engineering. Addresses report writing and publishing.***
+> ***Lab Objective: Static and dynamic malware analysis, reverse engineering (report writing and publishing).***
 
 | Malware Analysis                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -40,7 +40,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Lab Objective: Explore how to control, monitor, and manage incomng and outgoing network traffic through firewall policies.***
+> ***Lab Objective: Control, monitor, and manage network traffic through firewall policies.***
 
 | Firewall Rule Creation and Configuration      | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -48,7 +48,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Lab Objective: Import and create telemetry to parse, monitor, and analyze log data for the extraction of information.***
+> ***Lab Objective: Import and create telemetry to parse, monitor, and analyze log data.***
 
 | Log Analysis                                  | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -56,7 +56,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Lab Objective: Utilize various SIEM platforms to simulate real-time analysis of security alerts to develop investigative skillset.***
+> ***Lab Objective: Simulate real-time analysis of security alerts to develop investigative skillset.***
 
 | SIEM                                          | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -64,7 +64,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Lab Objective: Application of incident response methodologies ascertain the scope and cause of an incident for remediation.***
+> ***Lab Objective: Apply incident response methodologies ascertain an incidents scope and cause for remediation.***
 
 | DFIR                                          | Associated Project         |
 |-----------------------------------------------|----------------------------|
