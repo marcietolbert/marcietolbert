@@ -8,7 +8,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 ## Projects
 
-> Focused on the construction of lab environments. High level overview of concepts. Walkthrough format.
+> ***Focused on the construction of lab environments. High level overview of concepts. Walkthrough format.***
 
 | Lab Building and Telmetry Generation          | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -16,7 +16,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> Identification and mitigation of phishing emails. Explores methodology, documentation, and report writing.
+> ***Identification and mitigation of phishing emails. Explores methodology, documentation, and report writing.***
 
 | Phishing Email Analysis                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -24,7 +24,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> Placeholder Text
+> ***Placeholder Text***
 
 | Malware Analysis                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
