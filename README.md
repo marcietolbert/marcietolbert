@@ -8,7 +8,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 ## Projects
 
-> ***Objective: Constructing lab environments. High level overview of concepts. Walkthrough format.***
+> ***Lab Objective: Constructing lab environments. High level overview of concepts. Walkthrough format.***
 
 | Lab Building and Telmetry Generation          | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -16,7 +16,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Objective: Identification and mitigation of phishing emails. Explores methodology, documentation, and report writing.***
+> ***Lab Objective: Identification and mitigation of phishing emails. Explores methodology, documentation, and report writing.***
 
 | Phishing Email Analysis                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -24,7 +24,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Objective: Delves into the process of monitoring and analyzing network traffic to identify anomalies and suspicious activities.***
+> ***Lab Objective: Delves into the process of monitoring and analyzing network traffic to identify anomalies and suspicious activities.***
 
 | Network Traffic Analysis                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -32,7 +32,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Objective: Tackles static and dynamic malware analysis, and reverse engineering. Addresses report writing and publishing.***
+> ***Lab Objective: Tackles static and dynamic malware analysis, and reverse engineering. Addresses report writing and publishing.***
 
 | Malware Analysis                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -40,9 +40,25 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Objective: Explores a firewalls ability to control monitor and manage incomng and outgoing traffic through the creation and configuration of firewall policies.***
+> ***Lab Objective: Explore how to control, monitor, and manage incomng and outgoing traffic through the creation and configuration of firewall policies.***
 
 | Firewall Rule Creation and Configuration      | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Coming Soon                                   | Coming Soon                |
+<br>
+<br>
+
+> ***Lab Objective: Import and create telemetry to parse, monitor, and analyze log data for the extraction of information.***
+
+| Log Analysis                                  | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Coming Soon                                   | Coming Soon                |
+<br>
+<br>
+
+> ***Lab Objective: Utilize various SIEM platforms to simulate real-time analysis of security alerts.***
+
+| SIEM                                          | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Coming Soon                                   | Coming Soon                |
 <br>
