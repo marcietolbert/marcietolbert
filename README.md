@@ -8,7 +8,9 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 ## Projects
 
+```
 These labs are focused on the construction of the lab enviroment. Will contain a high level overview of concepts. Walkthrough format.
+```
 
 | Lab Building and Telmetry Generation          | Associated Project         |
 |-----------------------------------------------|----------------------------|
