@@ -40,7 +40,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Lab Objective: Explore how to control, monitor, and manage incomng and outgoing traffic through the creation and configuration of firewall policies.***
+> ***Lab Objective: Explore how to control, monitor, and manage incomng and outgoing network traffic through firewall policies.***
 
 | Firewall Rule Creation and Configuration      | Associated Project         |
 |-----------------------------------------------|----------------------------|
