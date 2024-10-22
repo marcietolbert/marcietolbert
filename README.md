@@ -16,7 +16,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Lab Objective: Identifying and mitigating phishing emails. Develop methodology, documentation, and report writing skill set.***
+> ***Lab Objective: Identifying and mitigating phishing emails (methodology, documentation, report).***
 
 | Phishing Email Analysis                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -24,7 +24,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Lab Objective: Delve into the process of monitoring and analyzing network traffic to identify anomalies and suspicious activity.***
+> ***Lab Objective: Monitor and analyzE network traffic to identify anomalies and suspicious activity.***
 
 | Network Traffic Analysis                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
