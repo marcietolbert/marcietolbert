@@ -20,7 +20,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 | Phishing Email Analysis                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Placeholder Text                              | Placeholder Text           |
+| Coming Soon                                   | Coming Soon                |
 <br>
 <br>
 
