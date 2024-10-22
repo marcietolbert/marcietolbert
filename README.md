@@ -8,7 +8,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 ## Projects
 
-> ***Focused on the construction of lab environments. High level overview of concepts. Walkthrough format.***
+> ***Objective: Constructing lab environments. High level overview of concepts. Walkthrough format.***
 
 | Lab Building and Telmetry Generation          | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -16,7 +16,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Identification and mitigation of phishing emails. Explores methodology, documentation, and report writing.***
+> ***Objective: Identification and mitigation of phishing emails. Explores methodology, documentation, and report writing.***
 
 | Phishing Email Analysis                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -24,11 +24,29 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Placeholder Text***
+> ***Objective: Delves into the process of monitoring and analyzing network traffic to identify anomalies and suspicious activities.***
+
+| Network Traffic Analysis                              | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Coming Soon                                   | Coming Soon                |
+<br>
+<br>
+
+> ***Objective: Tackles static and dynamic malware analysis, and reverse engineering. Addresses report writing and publishing.***
 
 | Malware Analysis                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Coming Soon                                   | Coming Soon                |
+<br>
+<br>
+
+> ***Objective: Explores a firewalls ability to control monitor and manage incomng and outgoing traffic through the creation and configuration of firewall policies.***
+
+| Firewall Rule Creation and Configuration      | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Coming Soon                                   | Coming Soon                |
+<br>
+<br>
 
 ## Tools
 
