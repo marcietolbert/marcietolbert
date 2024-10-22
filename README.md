@@ -8,9 +8,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 ## Projects
 
-```
-These labs are focused on the construction of the lab enviroment. Will contain a high level overview of concepts. Walkthrough format.
-```
+**`These labs are focused on the construction of the lab enviroment. Will contain a high level overview of concepts. Walkthrough format.`**
 
 | Lab Building and Telmetry Generation          | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,10 +16,14 @@ These labs are focused on the construction of the lab enviroment. Will contain a
 <br>
 <br>
 
+**`Identification and mitigation of phishing emails. Delves into the methodology used during the analysis process. Explores documentation and report writing.`**
+
 | Phishing Email Analysis                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
 <br>
+<br>
 
+**`Placeholder Text`**
 
 | Malware Analysis                              | Associated Project         |
 |-----------------------------------------------|----------------------------|
