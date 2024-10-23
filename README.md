@@ -13,10 +13,11 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 | Lab Building and Telmetry Generation          | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC with Intergrated Ticketing System (Attack, Detection, and Investigation Techniques) | <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>|
+| Sec, SOC, and Malware Analyst Lab Setup | <a href="https://github.com/marcietolbert/Building-the-Ultimate-Cybersecurity HomeLab">Building the Ultimate Cybersecurity HomeLab</a>|
 <br>
 <br>
 
-> ***Lab Objective: Identify and mitigatE phishing emails (methodology, documentation, report).***
+> ***Lab Objective: Identify and mitigate phishing emails (methodology, documentation, report).***
 
 | Phishing Email Analysis                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -24,11 +25,11 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 <br>
 <br>
 
-> ***Lab Objective: Monitor and analyzE network traffic to identify anomalies and suspicious activity.***
+> ***Lab Objective: Monitor and analyze network traffic to identify anomalies and suspicious activity.***
 
-| Network Traffic Analysis                              | Associated Project         |
+| Network Traffic Analysis                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Coming Soon                                   | Coming Soon                |
+| Sniffing Network Trafffic with tcpdump and WireShark | <a href="https://github.com/marcietolbert/Sniffing-Network-Traffic">Sniffing Network Trafffic</a>|
 <br>
 <br>
 
