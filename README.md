@@ -103,3 +103,5 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 ## Projects
 - <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>
+- <a href="https://github.com/marcietolbert/Building-the-Ultimate-Cybersecurity HomeLab">Building the Ultimate Cybersecurity HomeLab</a>
+- <a href="https://github.com/marcietolbert/Sniffing-Network-Traffic">Sniffing Network Trafffic</a>
