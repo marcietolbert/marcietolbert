@@ -13,7 +13,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 | Lab Building and Telmetry Generation          | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC with Intergrated Ticketing System (Attack, Detection, and Investigation Techniques) | <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>|
-| Sec, SOC, and Malware Analyst Lab Setup | <a href="https://github.com/marcietolbert/Building-the-Ultimate-Cybersecurity HomeLab">Building the Ultimate Cybersecurity HomeLab</a>|
+| SOC and Malware Analysis Lab | <a href="https://github.com/marcietolbert/Building-the-Ultimate-Cybersecurity HomeLab">Building the Ultimate Cybersecurity HomeLab</a>|
 <br>
 <br>
 
