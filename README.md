@@ -8,12 +8,12 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 ## Projects
 
-> ***Lab Objective: Constructing lab environments. High level overview of concepts. Walkthrough format.***
+> ***Overview: The labs below will guide you from the initial creation to individual challenges completed within those environments.***
 
 | Lab Building and Telmetry Generation          | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC with Intergrated Ticketing System (Attack, Detection, and Investigation Techniques) | <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>|
 | SOC and Malware Analysis Lab | <a href="https://github.com/marcietolbert/Building-the-Ultimate-Cybersecurity HomeLab">Building the Ultimate Cybersecurity HomeLab</a>|
+| SOC with Intergrated Ticketing System (Attack, Detection, and Investigation Techniques) | <a href="https://github.com/marcietolbert/MYDFIR-SOC-Analyst-Challenge">MYDFIR SOC Analyst Challenge</a>|
 <br>
 <br>
 
