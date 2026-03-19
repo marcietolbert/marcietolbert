@@ -10,10 +10,10 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 > ***Lab Overview: Reports on manual email analysis conducted without sole reliance on automated tools.***
 
-| Manual Email Investigations         | Associated Project                   |
+| Manual Email Investigations                   | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Exciting Collaboration Opportunity  | <a href="https://github.com/marcietolbert/Building-the-Ultimate-Cybersecurity-HomeLab">Building the Ultimate Cybersecurity HomeLab</a>|
-| Enterprise Lab with Cloud Collection | Constructing Defense (Coming Soon)|
+| Email #1  | <a href="https://github.com/marcietolbert/Building-the-Ultimate-Cybersecurity-HomeLab">Exciting Collaboration Opportunity</a>|
+| Email #2  | Coming Soon                                                  |
 
 <br>
 
