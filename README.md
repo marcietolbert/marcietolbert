@@ -12,7 +12,7 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 | Manual Email Analysis                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| MyDFIR Labs - Email                           | <a href="https://github.com/marcietolbert/Building-the-Ultimate-Cybersecurity-HomeLab">Email Investigations</a>|
+| MyDFIR Labs - Email                           | <a href="https://github.com/marcietolbert/Email-Investigations">Email Investigations</a>|
 
 <br>
 
