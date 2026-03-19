@@ -8,7 +8,16 @@ Hello, and welcome to my GitHub portfolio! My name is Marcie, and I'm a self-tau
 
 ## Projects
 
-> ***Overview: Manually-built labs showcasing cybersecurity skills through attack simulations and defense strategies.***
+> ***Lab Overview: Reports on manual email analysis conducted without sole reliance on automated tools.***
+
+| Manual Email Investigations         | Associated Project                   |
+|-----------------------------------------------|----------------------------|
+| Exciting Collaboration Opportunity  | <a href="https://github.com/marcietolbert/Building-the-Ultimate-Cybersecurity-HomeLab">Building the Ultimate Cybersecurity HomeLab</a>|
+| Enterprise Lab with Cloud Collection | Constructing Defense (Coming Soon)|
+
+<br>
+
+> ***Lab Overview: Manually-built labs showcasing cybersecurity skills through attack simulations and defense strategies.***
 
 | Lab Building and Telmetry Generation          | Associated Project         |
 |-----------------------------------------------|----------------------------|
